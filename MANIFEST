@@ -5,6 +5,7 @@ lib/IO/Compress/Base.pm
 lib/IO/Compress/Base/Common.pm
 lib/File/GlobMapper.pm
 Makefile.PL
+t/000prereq.t
 t/01misc.t
 t/99pod.t
 t/Test/Builder.pm
