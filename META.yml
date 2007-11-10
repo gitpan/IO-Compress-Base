@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                IO-Compress-Base
-version:             2.006
+version:             2.008
 abstract:            Base Class for IO::Compress modules 
 license:             perl
 generated_by:        ExtUtils::MakeMaker version 6.36
