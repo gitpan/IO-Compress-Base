@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                IO-Compress-Base
-version:             2.014
+version:             2.015
 abstract:            Base Class for IO::Compress modules 
 license:             perl
 author:              
